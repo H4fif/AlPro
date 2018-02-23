@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Personal Data\Pendidikan\Univ\Lessons\Studies\Semester 1\Algoritma & Pemograman\Tasks\Final Task\Projects\projecttanaman v.3 rev.3.1\ProjectTanaman.dp
+Name=ProjectTanaman
+MainUnit=D:\Personal Data\Pendidikan\Univ\Lessons\Studies\Semester 1\Algoritma & Pemograman\Tasks\Final Task\Projects\projecttanaman v.3 rev.3.1\tanaman_src.pas
+UnitCount=1
+ResFiles=D:\Data Kampus\Univ\Algoritma&Pemograman\Tugas\Tugas Akhir\Projek\projecttanaman v.3 rev.3\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Personal Data\Pendidikan\Univ\Lessons\Studies\Semester 1\Algoritma & Pemograman\Tasks\Final Task\Projects\projecttanaman v.3 rev.3.1\tanaman_src.pas
+FileTime=1178950570
